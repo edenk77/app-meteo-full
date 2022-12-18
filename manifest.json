@@ -1,0 +1,24 @@
+{
+    "short_name": "pwa2021",
+    "name": "PWA 3Ti web 2021",
+ 
+    "start_url": "/index.html",
+    "scope": "/",
+    "background_color": "#FF5252",
+    "display": "fullscreen",
+    "theme_color": "#FF5252",
+    "orientation": "portrait",
+    "lang": "en",
+   
+    "icons": [{
+      "src": "/img/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+        "src": "/img/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+        "purpose": "any maskable"
+      }]
+  }
